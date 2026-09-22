@@ -2,9 +2,9 @@
   --ink: #141413;
   --ink-soft: #1C1917;
   --ivory: #FAF9F5;
-  --accent: #D97757;
-  --accent-dark: #B85C3E;
-  --gold: #F2B84B;
+  --accent: #2563eb;
+  --accent-dark: #1e40af;
+  --gold: #60a5fa;
 }
 
 * { box-sizing: border-box; }
